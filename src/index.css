@@ -133,3 +133,22 @@ body
   box-shadow: 1px 2px 5px gray,-1px -2px 5px gray;
   transition: all 0.5s ease;
 }
+@media(max-width:360)
+{
+  .container
+{
+  max-width: 355px;
+}
+.title
+{
+  font-size:large
+}
+.card
+{
+  width: 350px
+}
+.btn-white
+{
+  width: 345px;
+}
+}
