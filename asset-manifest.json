@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Travel_tour/static/css/main.eae80a0d.css",
+    "main.js": "/Travel_tour/static/js/main.d209db64.js",
+    "static/js/453.3f515dd5.chunk.js": "/Travel_tour/static/js/453.3f515dd5.chunk.js",
+    "static/media/taj_mahal_agra_india_4k-2560x1440.jpg": "/Travel_tour/static/media/taj_mahal_agra_india_4k-2560x1440.bd303d2fcf65a709bf1e.jpg",
+    "static/media/wp4190260.jpg": "/Travel_tour/static/media/wp4190260.37ecb5ea0725f806cbf6.jpg",
+    "static/media/istockphoto-482557081-170667a.webp": "/Travel_tour/static/media/istockphoto-482557081-170667a.b68120c8d428d45803b4.webp",
+    "static/media/logo.svg": "/Travel_tour/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Travel_tour/index.html",
+    "main.eae80a0d.css.map": "/Travel_tour/static/css/main.eae80a0d.css.map",
+    "main.d209db64.js.map": "/Travel_tour/static/js/main.d209db64.js.map",
+    "453.3f515dd5.chunk.js.map": "/Travel_tour/static/js/453.3f515dd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eae80a0d.css",
+    "static/js/main.d209db64.js"
+  ]
+}
